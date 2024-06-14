@@ -131,7 +131,7 @@
 
                 button.onclick = function() {
 
-                    startProcess('https://qualitiessnoutdestitute.com/f2dvhed6p?key=93650a889486760cbd28aecedcaefd5f', 30);
+                    startProcess('https://babu88.app/register', 30);
 
                 };
 
